@@ -24,4 +24,4 @@ Course: C Programming Lab
 
 Faculty: Sandip Chaurasiya Semester: 1st Semester# C-PROGRAMMING-EXPERIMENTS
 
-EXPERIMENTS 1-6
+EXPERIMENTS 1-9
